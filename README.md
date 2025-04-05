@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm <span style="color:#ff6347;">Radhesh S. Joshi</span></h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer | Flutter & MERN Enthusiast | Problem Solver 💡</h3>
+<h3 align="center">🚀 Full Stack Developer | Flutter & MERN Enthusiast | .NET Developer | AI/ML Explorer 🤖</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff+💻;Let's+connect+and+collaborate!+🤝" alt="Typing SVG" />
@@ -18,8 +18,8 @@
 ### 👨‍💻 About Me:
 
 - 🔭 I’m currently working on **an Apartment Management System**  
-- 🌱 I’m diving deeper into **AI/ML and Cloud Computing**  
-- 💬 Ask me about **Flutter, MERN Stack, Firebase, or .NET Web Forms**  
+- 🌱 I’m diving deeper into **AI/ML, Next.js, TypeScript, and .NET Web Forms**  
+- 💬 Ask me about **Flutter, MERN Stack, Firebase, .NET, PostgreSQL, or APIs**  
 - 🧠 Fun Fact: I love solving real-world problems using code 🤓  
 - ✨ I believe in **learning by building** and helping others along the way!
 
@@ -28,7 +28,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,firebase,python,html,css,js,bootstrap,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,ts,react,nodejs,express,mongodb,postgres,mysql,supabase,neondb,firebase,dotnet,python,html,css,js,bootstrap,git,github,linux" />
 </p>
 
 ---
@@ -51,9 +51,20 @@
 ---
 
 ### 🧠 Currently Learning
-- 🤖 Machine Learning Basics
-- ☁️ Firebase Auth & Firestore Advanced, MERN Stack.
-- 🧱 Clean Architecture in Flutter
+
+- 🔥 Next.js and TypeScript for frontend scalability  
+- 🧠 AI/ML Concepts with practical implementation  
+- ☁️ Firebase (Auth, Firestore, Storage, Hosting)  
+- 🧱 Clean Architecture in Flutter for scalable apps  
+- 🗄️ Exploring multiple databases:
+  - 🔸 PostgreSQL  
+  - 🔸 MySQL  
+  - 🔸 MongoDB  
+  - 🔸 NeonDB  
+  - 🔸 Supabase  
+  - 🔸 Firebase Realtime DB & Firestore  
+- 💼 Deepening skills as a `.NET Developer` using Web Forms and MVC  
+- 🌐 Building powerful APIs using Node.js and Express
 
 ---
 
