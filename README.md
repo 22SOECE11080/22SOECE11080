@@ -71,17 +71,17 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://www.linkedin.com/in/radhesh-joshi-914814277/-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/radhesh-joshi-914814277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/radheshjoshi02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:radheshjoshi02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://github.com/22SOECE11080?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/22SOECE11080" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://radheshjoshiportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
