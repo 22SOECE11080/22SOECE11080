@@ -71,16 +71,16 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/radhesh-joshi-914814277/" target="_blank">
+  <a href="https://www.linkedin.com/in/radhesh-joshi-914814277/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:radheshjoshi02@gmail.com" target="_blank">
+  <a href="mailto:radheshjoshi02@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/22SOECE11080" target="_blank">
+  <a href="https://github.com/22SOECE11080" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://radheshjoshiportfolio.netlify.app/" target="_blank">
+  <a href="https://radheshjoshiportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
